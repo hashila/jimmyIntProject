@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: jimmy-routing-service
+
+routing:
+  countries-data-url: https://raw.githubusercontent.com/mledoze/countries/master/countries.json
